@@ -106,3 +106,40 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
 );
+MILLYARD MORSEL: The famous bronze “Mill Girl” sculpture in Manchester’s millyard was erected
+in 1988 and stands ten feet tall. It was sculpted by Antoinette Schultze, an American sculptor who has completed
+several public art commissions. The inscription reads: “She stands here, for thousands of 19th century working
+women: Industrial revolutionaries who broke with the past to earn their living, making history and creating the
+future. In 1880 one third of Manchestser’s population, 3385 women, worked in the textile mills of the
+Amoskeag Manufacturing Company, situated below along the banks of the Merrimack River.”
+”I started my career at DEKA nearly 3 years ago,
+and was excited to explore all of the opportunities
+DEKA had to offer. Looking back, I couldn’t
+have asked for a better experience right out of
+school. I’ve been able to experience and learn
+so much in a relatively short period of time.
+Project Neo kicked off my career, where I initially
+worked as a Test Engineer. About a year later, I was
+approached with an opportunity to help out on Neo’s
+Project Management team as a Project Coordinator. This
+role allowed me to merge my technical understanding
+with communication and organizational skills.
+I always had a sneaking interest in Regulatory
+Affairs after taking some classes on the subject. After
+about 1.5 years of working in Project Management,
+I transitioned over to Regulatory working with the
+Nexpresso team. In Regulatory, I work closely with folks
+in all disciplines to prepare submissions to the FDA.
+I’m utilizing skills from my previous roles, while learning
+more about how the regulatory space functions.
+I wouldn’t have the breadth of experience that I
+do without the support of the wonderful people
+I’ve worked with. They have pushed me outside of
+my comfort zone, listened to my aspirations, and
+worked with me to achieve my goals. I’m looking
+forward to where DEKA takes me next!”
+We talked to David Simm about this fascinating project:
+Describe your project in one sentence:
+Developing an automated cell delivery system (for the
+cells expanded by Mimic!) to deliver a solution targeted
+at delaying or preventing end stage kidney disease
